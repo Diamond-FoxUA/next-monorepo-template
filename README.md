@@ -1,4 +1,4 @@
-Next.js & Express Full-Stack Monorepo Template
+# Next.js & Express Full-Stack Monorepo Template
 
 A modern, lightning-fast developer boilerplate for full-stack web development powered by **pnpm workspaces**. Fully configured and optimized to work **100% offline** using local caching.
 
