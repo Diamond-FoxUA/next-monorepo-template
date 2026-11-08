@@ -4,7 +4,7 @@ A modern, lightning-fast developer boilerplate for full-stack web development po
 
 ## 📂 Project Structure
 
- `apps/frontend` — **Next.js 16** web application structured with strict **Feature-Driven Architecture (FDA)** guidelines inside the `src/` directory:
+- `apps/frontend` — **Next.js 16** web application structured with strict **Feature-Driven Architecture (FDA)** guidelines inside the `src/` directory:
   - `app/` — Global configs, root layout, application providers, global styles, and Next.js App Router definitions.
   - `pages/` — Composition layer for full-screen application views and route targets.
   - `widgets/` — Self-contained, structural UI blocks (e.g., `Header`, `Footer`, `Sidebar`).
