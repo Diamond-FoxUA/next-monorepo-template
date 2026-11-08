@@ -1,0 +1,11 @@
+{
+  "name": "next-monorepo-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:frontend": "pnpm --filter frontend dev",
+    "dev:backend": "pnpm --filter backend dev",
+    "dev": "pnpm --filter \"*\" --parallel dev",
+    "build": "pnpm --recursive build"
+  }
+}
